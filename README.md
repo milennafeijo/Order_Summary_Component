@@ -1,12 +1,11 @@
-# Order Summary Component 
+# Order Summary Component (FrontEnd Mentor) 
 
-<code>HTML ﹒CSS</code>
+Tecnologias: HTML, CSS
 
 Este projeto consistiu no desenvolvimento de um Componente de Resumo de Pedido (Order Summary). O desafio foi focado na criação de uma interface modular, seguindo fielmente o guia de estilos e garantindo a responsividade do card em diferentes viewports.
 
-<code> Você pode ver o projeto rodando <a href="https://milennafeijo.github.io/Order_Summary_Component/">aqui</a>. </code> 
+Acesse o projeto <a href="https://milennafeijo.github.io/Order_Summary_Component/">aqui</a>. 
 
-<hr>
 
 <div align="center">
 
